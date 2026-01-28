@@ -30,32 +30,10 @@ const ROW_1 = [
   "/images/carrusel5.jpeg",
   "/images/carrusel6.jpeg",
   "/images/carrusel7.jpeg",
-  "/images/carrusel8.jpeg",
-  "/images/carrusel9.jpeg",
-  "/images/carrusel10.jpeg",
-  "/images/carrusel11.jpeg",
-  "/images/carrusel12.jpeg",
-  "/images/carrusel13.jpeg",
-  "/images/carrusel14.jpeg",
-  "/images/carrusel15.jpeg",
-  "/images/carrusel16.jpeg",
-  "/images/carrusel17.jpeg",
-  "/images/carrusel18.jpeg",
-  "/images/carrusel19.jpeg"
+  "/images/carrusel8.jpeg"
 ];
 
 const ROW_2 = [
-  "/images/carrusel19.jpeg",
-  "/images/carrusel18.jpeg",
-  "/images/carrusel17.jpeg",
-  "/images/carrusel16.jpeg",
-  "/images/carrusel15.jpeg",
-  "/images/carrusel14.jpeg",
-  "/images/carrusel13.jpeg",
-  "/images/carrusel12.jpeg",
-  "/images/carrusel11.jpeg",
-  "/images/carrusel10.jpeg",
-  "/images/carrusel9.jpeg",
   "/images/carrusel8.jpeg",
   "/images/carrusel7.jpeg",
   "/images/carrusel6.jpeg",
