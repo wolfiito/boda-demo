@@ -23,25 +23,25 @@ const wrap = (min: number, max: number, v: number) => {
 
 // --- CONFIGURACIÓN DE IMÁGENES ---
 const ROW_1 = [
-  "/images/carrusel1.jpeg",
-  "/images/carrusel2.jpeg",
-  "/images/carrusel3.jpeg",
-  "/images/carrusel4.jpeg",
-  "/images/carrusel5.jpeg",
-  "/images/carrusel6.jpeg",
-  "/images/carrusel7.jpeg",
-  "/images/carrusel8.jpeg"
+  "/images/carrusel1.jpg",
+  "/images/carrusel2.jpg",
+  "/images/carrusel3.jpg",
+  "/images/carrusel4.jpg",
+  "/images/carrusel5.jpg",
+  "/images/carrusel6.jpg",
+  "/images/carrusel7.jpg",
+  "/images/carrusel8.jpg"
 ];
 
 const ROW_2 = [
-  "/images/carrusel8.jpeg",
-  "/images/carrusel7.jpeg",
-  "/images/carrusel6.jpeg",
-  "/images/carrusel5.jpeg",
-  "/images/carrusel4.jpeg",
-  "/images/carrusel3.jpeg",
-  "/images/carrusel2.jpeg",
-  "/images/carrusel1.jpeg",
+  "/images/carrusel8.jpg",
+  "/images/carrusel7.jpg",
+  "/images/carrusel6.jpg",
+  "/images/carrusel5.jpg",
+  "/images/carrusel4.jpg",
+  "/images/carrusel3.jpg",
+  "/images/carrusel2.jpg",
+  "/images/carrusel1.jpg",
 ];
 
 // --- COMPONENTE DE LA BANDA DESLIZANTE (PARALLAX) ---
