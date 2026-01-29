@@ -34,8 +34,8 @@ export default function Hero({ names, date, startAnimation = false }: HeroProps)
             initial="hidden"
             animate={startAnimation ? "visible" : "hidden"} 
             variants={blurIn}
-            className="relative z-10 font-(family-name:--font-alex) text-7xl text-[#F2F0E9] drop-shadow-sm pointer-events-none mt-6"
-            style={{ marginLeft: '35px' }}
+            className="relative z-10 font-(family-name:--font-alex) text-8xl text-[#F2F0E9] drop-shadow-sm pointer-events-none mt-6"
+            
           >
             {name1}
           </motion.h1>
@@ -47,10 +47,10 @@ export default function Hero({ names, date, startAnimation = false }: HeroProps)
             variants={blurIn}
             transition={{ delay: 0.2 }} 
             className="relative z-0 flex items-center justify-center gap-4 w-full max-w-[90vw]" 
-            style={{ marginTop: '-15px', marginLeft: '35px'}}
+            style={{ marginTop: '-15px'}}
           >
             <div className={`h-0.5 w-10 md:w-24 bg-[#DCC5C5]`} />
-            <span className={`font-(family-name:--font-bodoni) italic ${DUSTY_PINK_TEXT} text-3xl md:text-[10rem] select-none`}>
+            <span className={`font-(family-name:--font-bodoni) italic ${DUSTY_PINK_TEXT} text-4xl md:text-[10rem] select-none`}>
               &
             </span>
             <div className={`h-0.5 w-10 md:w-24 bg-[#DCC5C5]`} />
@@ -61,7 +61,7 @@ export default function Hero({ names, date, startAnimation = false }: HeroProps)
             animate={startAnimation ? "visible" : "hidden"} 
             variants={blurIn}
             transition={{ delay: 0.2}} 
-            className="relative z-10 font-(family-name:--font-alex) text-7xl text-[#F2F0E9] drop-shadow-sm pointer-events-none" 
+            className="relative z-10 font-(family-name:--font-alex) text-8 xl text-[#F2F0E9] drop-shadow-sm pointer-events-none" 
             style={{ marginTop: '-10px' }}
           >
             {name2}

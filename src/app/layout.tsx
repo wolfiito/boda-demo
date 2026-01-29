@@ -37,22 +37,22 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://invi-al.tazcito.com'),
   title: {
-    default: "Ceci & Alejandro | Nuestra Boda",
-    template: "%s | Boda C&A"
+    default: "Carmen & Juan | Nuestra Boda",
+    template: "%s | Boda C&J"
   },
-  description: "Nos casamos y queremos que seas parte de este nuevo capítulo. 09 de Mayo, 2026.",
+  description: "Nos casamos y queremos que seas parte de este nuevo capítulo.",
 
   openGraph: {
     title: "Ceci & Alejandro | ¡Nos Casamos!",
     description: "Acompáñanos a celebrar nuestra unión. Toca para ver la invitación y confirmar tu asistencia.",
     url: '/',
-    siteName: 'Boda Ceci & Alejandro',
+    siteName: 'Boda Carmen & Juan',
     locale: 'es_MX',
     type: 'website',
     images: [
       {
         // CORRECCIÓN: Había dos URLs aquí. Dejé la v2 que es la más nueva.
-        url: '/images/share-v2.jpg',
+        url: '/images/walking.jpg',
         width: 1200,
         height: 630,
         alt: 'Ceci & Alejandro',

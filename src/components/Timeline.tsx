@@ -133,7 +133,7 @@ const TimelineItem = ({
 
         <motion.h3 
           variants={{ hidden: { color: "#d6d3d1" }, visible: { color: "#ffffff" } }}
-          className="font-(family-name:--font-bodoni) font-bold text-2xl sm:text-3xl mb-2 leading-tight"
+          className="font-(family-name:--font-bodoni) font-bold text-1xl sm:text-3xl mb-2 leading-tight"
         >
           {data.title}
         </motion.h3>
