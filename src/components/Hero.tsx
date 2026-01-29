@@ -61,7 +61,7 @@ export default function Hero({ names, date, startAnimation = false }: HeroProps)
             animate={startAnimation ? "visible" : "hidden"} 
             variants={blurIn}
             transition={{ delay: 0.2}} 
-            className="relative z-10 font-(family-name:--font-alex) text-8 xl text-[#F2F0E9] drop-shadow-sm pointer-events-none" 
+            className="relative z-10 font-(family-name:--font-alex) text-8xl text-[#F2F0E9] drop-shadow-sm pointer-events-none" 
             style={{ marginTop: '-10px' }}
           >
             {name2}
